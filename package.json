@@ -1,0 +1,37 @@
+{
+  "name": "metal-micro-wire-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "axios": "^1.6.8",
+    "element-plus": "^2.5.1",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue": "^3.4.19",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.70.0",
+    "vite": "^5.0.11"
+  },
+  "description": "金属微丝-前端部分",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elvisiiss/metal_micro_wire_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elvisiiss/metal_micro_wire_web/issues"
+  },
+  "homepage": "https://github.com/Elvisiiss/metal_micro_wire_web#readme"
+}

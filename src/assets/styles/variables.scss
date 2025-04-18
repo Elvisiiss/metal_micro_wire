@@ -1,0 +1,16 @@
+// 使用模块导出而不是全局变量
+@forward "./variables" as var-*;
+
+// 科技主题配色
+$primary-color: #4facfe;
+$secondary-color: #00f2fe;
+$bg-color: #1a2a3a;
+$glass-bg: rgba(255, 255, 255, 0.05);
+
+// 字体颜色
+$text-primary: rgba(255, 255, 255, 0.9);
+$text-secondary: rgba(255, 255, 255, 0.7);
+
+// 其他变量
+$border-radius: 8px;
+$transition-duration: 0.3s;
